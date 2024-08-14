@@ -1,1 +1,1 @@
-# IIIT-Hyderbad-Mtech
+# IIIT-Hyderabad-Mtech
