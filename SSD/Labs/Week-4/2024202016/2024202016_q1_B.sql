@@ -1,0 +1,10 @@
+USE SSDLab4;
+DELIMITER $$
+DROP PROCEDURE Retrieve;
+CREATE PROCEDURE Retrieve()
+BEGIN
+SELECT SubscriberName FROM Subscribers;
+END $$
+DELIMITER ;
+
+CALL Retrieve();
